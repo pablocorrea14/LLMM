@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona1>
+    <nombre>Juan Pérez</nombre>
+    <fecha-de-nacimiento>
+        <dia>15</dia>
+        <mes>05</mes>
+        <anio>1990</anio>
+    </fecha-de-nacimiento>
+    <ciudad>Madrid</ciudad>
+</persona1>
+
+<persona2>
+    <nombre>María López</nombre>
+    <fecha-de-nacimiento>
+        <dia>22</dia>
+        <mes>11</mes>
+        <anio>1985</anio>
+    </fecha-de-nacimiento>
+    <ciudad>Barcelona</ciudad>
+</persona2>
+
+<persona3>
+    <nombre>Carlos García</nombre>
+    <fecha-de-nacimiento>
+        <dia>03</dia>
+        <mes>02</mes>
+        <anio>1992</anio>
+    </fecha-de-nacimiento>
+    <ciudad>Valencia</ciudad>
+</persona3>
