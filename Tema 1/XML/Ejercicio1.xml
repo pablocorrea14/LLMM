@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<paises>
+
+    <Francia>
+        <Poblacion></Poblacion>    
+        <capital></capital>
+        <superficie></superficie>
+    </Francia>
+    <España>
+        <Poblacion></Poblacion>    
+        <capital></capital>
+        <superficie></superficie>
+    </España>
+
+    <Alemania>
+        <Poblacion></Poblacion>    
+        <capital></capital>
+        <superficie></superficie>
+    </Alemania>
+
+    <Portugal>
+        <Poblacion></Poblacion>    
+        <capital></capital>
+        <superficie></superficie>
+    </Portugal>
+
+
+</paises>

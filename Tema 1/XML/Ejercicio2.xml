@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<biblioteca>
+    <libro>
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <año_de_publicacion>1967</año_de_publicacion>
+        <Genero>Ficción</Genero>
+        <Idioma>Español</Idioma>
+        <Sinopsis>Una saga familiar que narra la historia de la familia Buendía en el pueblo ficticio de Macondo, explorando temas de soledad, amor y el paso del tiempo.</Sinopsis>
+
+
+
+    </libro>
+
+    <libro>
+        <titulo>El alquimista</titulo>
+        <autor>Paulo Coelho</autor>
+        <año_de_publicacion>1988</año_de_publicacion>
+        <Genero>Ficción</Genero>
+        <Idioma>Español</Idioma>
+        <Sinopsis>Un joven pastor llamado Santiago emprende un viaje desde España a Egipto en busca de un tesoro personal, aprendiendo lecciones sobre la vida y el destino en el camino.</Sinopsis>
+
+
+
+    </libro>
+
+    
+    <libro>
+        <titulo>Orgullo y prejuicio</titulo>
+        <autor>Jane Austen</autor>
+        <año_de_publicacion>1813</año_de_publicacion>
+        <Genero>Romance</Genero>
+        <Idioma>Inglés</Idioma>
+        <Sinopsis>La novela sigue a Elizabeth Bennet, una joven inteligente y perspicaz, mientras navega por las complicaciones del amor y las relaciones sociales en la Inglaterra del siglo XIX.</Sinopsis>
+
+
+
+    </libro>
+
+
+
+</biblioteca>

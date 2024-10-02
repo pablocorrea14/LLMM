@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perro>
+    <raza>
+        <nombre>Perro de aguas español</nombre>
+        <abreviatura>PAE</abreviatura>
+        <origen>Andalucía</origen>
+        <tamanio>
+            <macho>44 a 50 cm</macho>
+            <hembra>40 a 46 cm</hembra>
+        </tamanio>
+        <peso>
+            <macho>19 a 22 kg</macho>
+            <hembra>14 a 19 kg</hembra>
+        </peso>
+        <temperamento>Amigable</temperamento>
+        <color>Oro</color>
+        <vidaPromedio>8-10 años</vidaPromedio>
+
+    </raza>
+
+    <raza>
+        <nombre>Border Collie</nombre>
+        <abreviatura>BC</abreviatura>
+        <origen>Reino Unido</origen>
+        <tamanio>
+            <macho>48 a 56 cm</macho>
+            <hembra>46 a 53 cm</hembra>
+        </tamanio>
+        <peso>
+            <macho>14 a 20 kg</macho>
+            <hembra>12 a 19 kg</hembra>
+        </peso>
+        <temperamento>Inteligente</temperamento>
+        <color>Negro y blanco</color>
+        <vidaPromedio>12-15 años</vidaPromedio>
+
+    </raza>
+
+</perro>
