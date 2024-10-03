@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <paises>
-
     <Francia>
-        <Poblacion></Poblacion>    
-        <capital></capital>
-        <superficie></superficie>
+        <Poblacion>67 millones</Poblacion>    
+        <capital>París</capital>
+        <superficie>551,695 km²</superficie>
     </Francia>
     <España>
-        <Poblacion></Poblacion>    
-        <capital></capital>
-        <superficie></superficie>
+        <Poblacion>47 millones</Poblacion>    
+        <capital>Madrid</capital>
+        <superficie>505,990 km²</superficie>
     </España>
-
     <Alemania>
-        <Poblacion></Poblacion>    
-        <capital></capital>
-        <superficie></superficie>
+        <Poblacion>83 millones</Poblacion>    
+        <capital>Berlín</capital>
+        <superficie>357,022 km²</superficie>
     </Alemania>
-
     <Portugal>
-        <Poblacion></Poblacion>    
-        <capital></capital>
-        <superficie></superficie>
+        <Poblacion>10 millones</Poblacion>    
+        <capital>Lisboa</capital>
+        <superficie>92,212 km²</superficie>
     </Portugal>
-
-
 </paises>
