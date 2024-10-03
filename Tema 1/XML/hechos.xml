@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <hechos>
-    <hecho1 id="IBM da a conocer el PC">
+    <hecho1 descripcion="IBM da a conocer el PC">
        <fecha>
         <Dia>12</Dia>
         <Mes>8</Mes>
@@ -11,7 +11,7 @@
 
     </hecho1>
 
-    <hecho2 id="Se funda Google.">
+    <hecho2 descripcion="Se funda Google.">
         <fecha>
             <Dia>4</Dia>
             <Mes>9</Mes>
@@ -22,7 +22,7 @@
 
     </hecho2 >
 
-    <hecho3 id="Se funda Facebook.">
+    <hecho3 descripcion="Se funda Facebook.">
 
         <fecha>
             <Dia>4</Dia>
