@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coches xmlns:coches="https://iesbelen.org/xml/coches">
+    <coche>
+        <marca>Toyota</marca>
+        <modelo>Corolla</modelo>
+        <potencia>150 HP</potencia>
+    </coche>
+</coches>

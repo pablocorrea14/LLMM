@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
- <pedido>
-        <código>código 1111</código>
+ <pedido código= "1111">
+        
         <nombre>José Antonio</nombre> 
         <apellido>Lojo</apellido>
         <articulos>
-        <articulo1>
-            Bicicleta   
-            <modelo>
-            A2020
-            </modelo>
-        </articulo1> 
-        <articulo2>
-            Un ordenador  
-            <modelo>
-                modelo 1345 
-            </modelo>
-        </articulo2> 
+            <articulo1>
+                Bicicleta   
+                <modelo>
+                    A2020
+                </modelo>
+            </articulo1> 
+            <articulo2>
+                Un ordenador  
+                <modelo>
+                    modelo 1345 
+                </modelo>
+            </articulo2> 
     
         </articulos>
         <direccion>
