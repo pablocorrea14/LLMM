@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vehiculos xmlns:coches="https://iesbelen.org/xml/coches"
-           xmlns:motos="https://iesbelen.org/xml/motos">
-    <coches xmlns:coches="https://iesbelen.org/xml/coches">
-        <coche>
-            <marca>Toyota</marca>
-            <modelo>Corolla</modelo>
-            <potencia>150 HP</potencia>
-        </coche>
+<vehiculos xmlns:coch="https://iesbelen.org/xml/coches"
+           xmlns:mot="https://iesbelen.org/xml/motos">
+    <coches xmlns:coch="https://iesbelen.org/xml/coches">
+        <coch:coche>
+            <coch:marca>Toyota</coch:marca>
+            <coch:modelo>Corolla</coch:modelo>
+            <coch:potencia>150 HP</coch:potencia>
+        </coch:coche>
     </coches>
-    <motos xmlns:motos="https://iesbelen.org/xml/motos ">
-        <moto>
-        <marca>Honda</marca>
-        <modelo>CBR 600</modelo>
-        <cilindrada>600 cc</cilindrada>
-        <aceleracion>0-60 mph en 3.2 segundos</aceleracion>
-        </moto>
-    </motos>
+    <mot:motos xmlns:motos="https://iesbelen.org/xml/motos ">
+        <mot:moto>
+        <mot:marca>Honda</mot:marca>
+        <mot:modelo>CBR 600</mot:modelo>
+        <mot:cilindrada>600 cc</mot:cilindrada>
+        <mot:aceleracion>0-60 mph en 3.2 segundos</mot:aceleracion>
+        </mot:moto>
+    </mot:motos>
 </vehiculos>
